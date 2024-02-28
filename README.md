@@ -1,5 +1,5 @@
 Studerar en civilingenjörsutbildning inom informationsteknik på KTH.
-<br>Arbeten som kan delges på begäran:
+<br>Arbeten som kan delas på begäran:
 * Projekt inom datalagring i grupp om två, IV1351. Projektet handlade om att bygga en databas för en påhittad klient.
 * Uppgifter inom ID1019 och ID1021. Introduktion till olika koncept, algoritmer, funktionell programmering etc
 
