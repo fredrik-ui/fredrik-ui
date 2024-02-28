@@ -1,7 +1,7 @@
-Studerar en civilingenjör utbildning inom informationsteknik på KTH.
-<br>Arbete som gjorts: 
-* Projekt inom datalagaring i grupp av två, IV1351.
-* Uppgifter inom ID1019 och ID1021
+Studerar en civilingenjörsutbildning inom informationsteknik på KTH.
+<br>Arbeten som kan delges på begäran:
+* Projekt inom datalagring i grupp om två, IV1351. Projektet handlade om att bygga en databas för en påhittad klient.
+* Uppgifter inom ID1019 och ID1021. Introduktion till olika koncept, algoritmer, funktionell programmering etc
 
 <!--
 **fredrik-ui/fredrik-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
