@@ -4,7 +4,7 @@ Studerar en civilingenjörsutbildning inom informationsteknik på KTH.
 * Uppgifter inom ID1019 och ID1021. Introduktion till olika koncept, algoritmer, funktionell programmering etc
 * Nätverksprojekt inom java, IK1203. Grundläggande java socket programering, simpel TCP klient och HTTP server.
 
- <br> Egna arbeten som gjorts, inte universitet relatera
+ <br> Egna arbeten som gjorts, inte universitets relaterat
  * Ett simpelt spel i java, inte klart. 
 
 <!--
